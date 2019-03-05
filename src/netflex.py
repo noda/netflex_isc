@@ -6,10 +6,12 @@ the alternating direction method of multipliers algorithm [1] tailored towards
 model predictive control [2]. Netflex was carried out as part of the research
 project Netflexible Heat Pumps within the research and innovation programme
 SamspEL, funded by the Swedish Energy Agency. Netflex is made available under
-the ISC licence [3], see the file LICENSE.md.
+the ISC licence [3], see the file netflex/LICENSE.md.
 
 [1](http://stanford.edu/~boyd/admm.html)
+
 [2](https://en.wikipedia.org/wiki/Model_predictive_control)
+
 [3](https://en.wikipedia.org/wiki/ISC_license)
 """
 

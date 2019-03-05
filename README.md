@@ -1,8 +1,12 @@
 # README
 
-The following text by [Jens Brage](jens.brage@noda.se) was written using [Upmath: Markdown & LaTeX Online Editor](https://upmath.me).
+netflex/README.md by Jens Brage (jens.brage@noda.se)
+
+This file is part of the Python project Netflex, which implements a version of the [alternating direction method of multipliers algorithm](http://stanford.edu/~boyd/admm.html) tailored towards [model predictive control](https://en.wikipedia.org/wiki/Model_predictive_control). Netflex was carried out as part of the research project Netflexible Heat Pumps within the research and innovation programme SamspEL, funded by the Swedish Energy Agency. Netflex is made available under the [ISC licence](https://en.wikipedia.org/wiki/ISC_license), see the file netflex/LICENSE.md.
 
 ## The alternating direction method of multipliers
+
+The following text was written using [Upmath: Markdown & LaTeX Online Editor](https://upmath.me), and can be read using the same tool.
 
 The NODA STORM tracker, here reduced to its essentials as part of the project Netflexible Heat Pumps, serves to make the aggregated supply and demand of a large number of distributed energy resources track a desired plan. To this end, it is necessary to perform model predictive control over a horizon of days at a resolution of a fraction of an hour. Distributed convex optimization in the guise of the *alternating direction method of multipliers* (ADMM) offers a way to address the large-scale nature of the problem; see, for reference, [B2010].
 
