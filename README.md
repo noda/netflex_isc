@@ -2,6 +2,8 @@
 
 netflex/README.md by Jens Brage (jens.brage@noda.se)
 
+Copyright 2019 NODA Intelligent Systems AB
+
 This file is part of the Python project Netflex, which implements a version of the [alternating direction method of multipliers algorithm](http://stanford.edu/~boyd/admm.html) tailored towards [model predictive control](https://en.wikipedia.org/wiki/Model_predictive_control). Netflex was carried out as part of the research project Netflexible Heat Pumps within the research and innovation programme SamspEL, funded by the Swedish Energy Agency. Netflex is made available under the [ISC licence](https://en.wikipedia.org/wiki/ISC_license), see the file netflex/LICENSE.md.
 
 ## The alternating direction method of multipliers

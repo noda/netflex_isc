@@ -1,6 +1,8 @@
 """
 netflex/src/netflex.py by Jens Brage (jens.brage@noda.se)
 
+Copyright 2019 NODA Intelligent Systems AB
+
 This file is part of the Python project Netflex, which implements a version of
 the alternating direction method of multipliers algorithm [1] tailored towards
 model predictive control [2]. Netflex was carried out as part of the research
